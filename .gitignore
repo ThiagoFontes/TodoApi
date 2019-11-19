@@ -59,3 +59,21 @@ typings/
 
 # next.js build output
 .next
+
+
+.idea
+.project
+.DS_Store
+.vscode/
+*.sublime*
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.swp
+*.swo
+dist
+*xunit.xml
+.nyc_output/
