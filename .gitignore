@@ -74,6 +74,5 @@ typings/
 *.pid
 *.swp
 *.swo
-dist
 *xunit.xml
 .nyc_output/
